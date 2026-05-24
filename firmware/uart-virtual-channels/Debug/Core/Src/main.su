@@ -1,0 +1,13 @@
+../Core/Src/main.c:77:5:_write	24	static
+../Core/Src/main.c:84:5:__io_putchar	16	static
+../Core/Src/main.c:97:6:app_rx	16	static
+../Core/Src/main.c:102:6:data_callback	40	static
+../Core/Src/main.c:149:6:HAL_UARTEx_RxEventCallback	24	static
+../Core/Src/main.c:173:5:main	32	static
+../Core/Src/main.c:614:6:SystemClock_Config	88	static
+../Core/Src/main.c:656:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:708:13:MX_USART3_UART_Init	8	static
+../Core/Src/main.c:741:13:MX_DMA_Init	16	static
+../Core/Src/main.c:762:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:801:6:MPU_Config	24	static
+../Core/Src/main.c:832:6:Error_Handler	4	static,ignoring_inline_asm

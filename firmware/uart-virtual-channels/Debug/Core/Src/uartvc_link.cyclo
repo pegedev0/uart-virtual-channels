@@ -1,0 +1,2 @@
+../Core/Src/uartvc_link.c:9:6:uartvc_send_packet	4
+../Core/Src/uartvc_link.c:30:6:uartvc_send_ack	7

@@ -1,0 +1,4 @@
+../Core/Src/uartvc_parser.c:6:17:uartvc_get_time_ms	1
+../Core/Src/uartvc_parser.c:11:6:uartvc_parser_init	2
+../Core/Src/uartvc_parser.c:29:6:uartvc_parser_tick	4
+../Core/Src/uartvc_parser.c:51:6:uartvc_parser_process_byte	27

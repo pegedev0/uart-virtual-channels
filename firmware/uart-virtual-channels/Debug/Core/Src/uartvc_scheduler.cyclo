@@ -1,0 +1,11 @@
+../Core/Src/uartvc_scheduler.c:48:16:get_unstuffed_byte	4
+../Core/Src/uartvc_scheduler.c:67:6:uartvc_scheduler_init	2
+../Core/Src/uartvc_scheduler.c:79:6:uartvc_enqueue_raw	3
+../Core/Src/uartvc_scheduler.c:93:6:uartvc_set_channel_burst	1
+../Core/Src/uartvc_scheduler.c:99:9:queue_full	1
+../Core/Src/uartvc_scheduler.c:105:6:uartvc_enqueue	2
+../Core/Src/uartvc_scheduler.c:121:12:queue_empty	1
+../Core/Src/uartvc_scheduler.c:126:5:uartvc_dequeue	2
+../Core/Src/uartvc_scheduler.c:139:12:find_best_channel	5
+../Core/Src/uartvc_scheduler.c:159:6:uartvc_process_ack	3
+../Core/Src/uartvc_scheduler.c:185:6:uartvc_scheduler_run	18

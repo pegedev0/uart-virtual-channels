@@ -1,0 +1,13 @@
+../Core/Src/main.c:77:5:_write	1
+../Core/Src/main.c:84:5:__io_putchar	1
+../Core/Src/main.c:97:6:app_rx	1
+../Core/Src/main.c:102:6:data_callback	18
+../Core/Src/main.c:149:6:HAL_UARTEx_RxEventCallback	3
+../Core/Src/main.c:173:5:main	5
+../Core/Src/main.c:614:6:SystemClock_Config	3
+../Core/Src/main.c:656:13:MX_ADC1_Init	3
+../Core/Src/main.c:708:13:MX_USART3_UART_Init	2
+../Core/Src/main.c:741:13:MX_DMA_Init	1
+../Core/Src/main.c:762:13:MX_GPIO_Init	1
+../Core/Src/main.c:801:6:MPU_Config	1
+../Core/Src/main.c:832:6:Error_Handler	1
